@@ -3,5 +3,5 @@
 
 
 ## Ekran Görüntüsü
-![RiskMetre](./RiskMetreSS.png)
+![RiskMetre](https://github.com/Alivan-1502/RiskMetre/blob/main/RiskMetreSS.png?raw=true)
 
