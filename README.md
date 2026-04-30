@@ -3,4 +3,5 @@
 
 
 ## Ekran Görüntüsü
-![RiskMetre](RiskMetreSS.png)
+![RiskMetre](./RiskMetreSS.png)
+
